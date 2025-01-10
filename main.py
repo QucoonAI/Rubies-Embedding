@@ -3,10 +3,24 @@ import json
 import boto3
 from pinecone import ServerlessSpec
 from pinecone import Pinecone
+import streamlit as st
+
 pc = Pinecone(
     api_key="pcsk_2PqYLo_4z6FZVwzr9H3heXzps8m5MZcwsk6a5nvVveX6oh4axv8XSHXD1UY7Lq44v1k76o"
 )
-session = boto3.Session()
+
+# Access AWS credentials from Streamlit secrets
+aws_access_key_id = st.secrets["aws"]["aws_access_key_id"]
+aws_secret_access_key = st.secrets["aws"]["aws_secret_access_key"]
+region_name = st.secrets["aws"]["region_name"]
+
+# Initialize a Boto3 session
+session = boto3.Session(
+    aws_access_key_id=aws_access_key_id,
+    aws_secret_access_key=aws_secret_access_key,
+    region_name=region_name
+)
+
 bedrock = boto3.client(service_name='bedrock-runtime', region_name = "us-east-1" )
 modelId="amazon.titan-embed-text-v2:0"
 
