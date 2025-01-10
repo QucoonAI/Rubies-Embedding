@@ -10,9 +10,9 @@ pc = Pinecone(
 )
 
 # Access AWS credentials from Streamlit secrets
-aws_access_key_id = st.secrets["aws"]["aws_access_key_id"]
-aws_secret_access_key = st.secrets["aws"]["aws_secret_access_key"]
-region_name = st.secrets["aws"]["region_name"]
+aws_access_key_id = st.secrets.aws.aws_access_key_id
+aws_secret_access_key = st.secrets.aws.aws_secret_access_key
+region_name = st.secrets.aws.region_name
 
 # Initialize a Boto3 session
 session = boto3.Session(
