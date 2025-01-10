@@ -1,0 +1,88 @@
+Rubies Bank - Frequently Asked Questions (FAQs)
+<question>How can I open a new Rubies account?</question>
+<answer>Download the Rubies app, click on "Sign Up," provide the required personal details, and complete the KYC steps.</answer>
+<question>What types of accounts does Rubies offer?</question>
+<answer>Rubies offers savings and business accounts, each tailored to meet various banking needs.</answer>
+<question>How do I deposit money into my account?</question>
+<answer>Deposits can be made via direct bank transfer, debit card, or at Rubies partner banks.</answer>
+<question>How do I withdraw money from my account?</question>
+<answer>Withdrawals can be made at ATMs using your Rubies card or through bank transfers via the app.</answer>
+<question>What are the transaction fees?</question>
+<answer>Fees vary by transaction type. Please check our app under "Fees and Charges" for the latest details.</answer>
+<question>How can I update my personal information?</question>
+<answer>Log into the Rubies app, go to "Settings," and select the profile icon to update your details.</answer>
+<question>What should I do if I forget my Passcode?</question>
+<answer>On the login page, click "Forgot Passcode" and follow the prompts to reset it.</answer>
+<question>How do I report a lost or stolen card?</question>
+<answer>Block your card via the app immediately and contact customer support.</answer>
+<question>Can I have both a savings and a corporate account?</question>
+<answer>Yes, you can open multiple account types based on your needs.</answer>
+<question>Are there any minimum balance requirements?</question>
+<answer>No, Rubies does not require a minimum balance for most accounts.</answer>
+<question>How do I check my account balance?</question>
+<answer>You can view your balance directly from the app's home screen.</answer>
+<question>What is the interest rate on a savings account?</question>
+<answer>Interest rates are competitive and subject to change. Check the latest rates on the app.</answer>
+<question>How do I close my account?</question>
+<answer>Contact customer service and follow the required steps to close your account.</answer>
+<question>Can I receive international transfers?</question>
+<answer>Not yet. Our team is working to implement this feature soon.</answer>
+<question>How can I increase my credit limit?</question>
+<answer>Your transaction limit depends on your account tier:
+•	Tier 1: ₦0 - ₦50,000
+•	Tier 2: ₦50,000 - ₦200,000
+•	Tier 3: ₦200,000 - ₦1,000,000
+For higher limits, request assistance from an agent.</answer>
+<question>What should I do if I see unauthorized transactions on my account?</question>
+<answer>Report unauthorized transactions immediately through the app.</answer>
+<question>How do I view my transaction history?</question>
+<answer>Log into the app to view your transaction history.</answer>
+<question>What are the benefits of using Rubies compared to other banks?</question>
+<answer>Rubies offers features such as chat banking, lower fees, higher interest rates, and digital-first solutions for tech-savvy users.</answer>
+<question>How can I contact Rubies?</question>
+<answer>As a digital bank, we assist customers remotely through the app, phone, or email.</answer>
+________________________________________
+Rubies Bank - Chat Banking FAQs
+<question>How do I access chat banking?</question>
+<answer>Open the Rubies app and click the chat icon on the bottom-right corner of the screen.</answer>
+<question>What services are available through chat banking?</question>
+<answer>You can check balances, initiate transfers, pay bills, and ask account-related questions.</answer>
+<question>Is chat banking available 24/7?</question>
+<answer>Yes, chat banking is available round the clock.</answer>
+<question>How secure is chat banking?</question>
+<answer>It is highly secure, using advanced encryption and protocols.</answer>
+<question>Is my money safe with Rubies Digital Bank?</question>
+<answer>Yes, Rubies is insured by NDIC and employs robust security measures.</answer>
+________________________________________
+Rubies Bank - Dispute Scenarios and Resolutions
+<question>What should I do for a failed POS transaction?</question>
+<answer>Go to transaction history in the app. Select the transaction, choose "Dispute," then "Failed POS transaction," upload proof (if needed), and submit.</answer>
+<question>How do I resolve a failed ATM withdrawal?</question>
+<answer>Identify the transaction in the app. Select "Dispute" and choose "Failed ATM withdrawal."</answer>
+<question>How can I handle a dispute over profile management?</question>
+<answer>Log in, verify the information, and report issues to support with the correct details for resolution.</answer>
+<question>What should I do for unauthorized profile changes?</question>
+<answer>Report unauthorized changes, update your security settings, and confirm your profile is restored.</answer>
+<question>What steps should I take for a wrong transfer dispute?</question>
+<answer>Contact the recipient (if possible). Otherwise, file a dispute in the app and cooperate with the bank to resolve it.</answer>
+<question>How do I address a billing error?</question>
+<answer>Review your account statements, notify customer support, and submit relevant documentation to resolve the error.</answer>
+<question>What if my mobile app glitches during a transaction?</question>
+<answer>Document the glitch (e.g., screenshots), report the issue to customer support, and await correction.</answer>
+<question>What should I do if my refund processing is delayed?</question>
+<answer>Verify the expected refund timeline, contact support for delays, and monitor your account until processed.</answer>
+<question>How do I handle an ATM card retained by the machine?</question>
+<answer>Block the card on the app, request a new one, and monitor your account for irregularities.</answer>
+<question>What if there’s a security breach in my account?</question>
+<answer>Contact support, update your security settings, and monitor your account for unauthorized activity.</answer>
+<question>What can I do if services I paid for are not received?</question>
+<answer>Confirm the delivery status, report the issue to support, and follow up until resolved.</answer>
+________________________________________
+Transaction Dispute Categories and Timelines
+<question>What is the resolution timeline for bill payments?</question>
+<answer>Bill payment disputes (e.g., airtime, data) are resolved within 24 hours.</answer>
+<question>What is the resolution timeline for ATM transfers?</question>
+<answer>ATM transfer disputes are resolved within 48 hours.</answer>
+<question>What is the resolution timeline for POS withdrawals?</question>
+<answer>POS withdrawal disputes are resolved within 48 hours.</answer>
+
