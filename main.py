@@ -148,7 +148,3 @@ def embed_query(query):
     query_embedding = response_json['embedding']
     return query_embedding
 
-query  = "what are the kinds of accounts in Rubies Bank?"
-query_vector = embed_query(query)
-results = query_top_k(query_vector, top_k=5)
-print(results)
