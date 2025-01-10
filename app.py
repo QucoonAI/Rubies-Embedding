@@ -35,7 +35,7 @@ total_vectors = stats['total_vector_count']
 new_id = total_vectors 
 
 
-def update_faq(Question, Answer, id = new_id):
+def update_faq(Question, Answer, id = new_id, bedrock=bedrock, modelId=modelId, index=index):
     """
     Chunking Strategy:
     1. Extract questions and answers from the text
@@ -88,7 +88,7 @@ def update_faq(Question, Answer, id = new_id):
     
 
 
-def query_top_k(query_vector, top_k=5):
+def query_top_k(query_vector, top_k=5, index=index):
     """
     Queries the Pinecone index to retrieve the top_k most similar vectors.
 
@@ -117,7 +117,7 @@ def query_top_k(query_vector, top_k=5):
     
     return results
 
-def embed_query(query):
+def embed_query(query,bedrock=bedrock,modelId=modelId):
     """
     Function to get the answer from the FAQ knowledge base using Pinecone, Embeddings, and Bedrock.
     
