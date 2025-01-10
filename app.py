@@ -32,7 +32,7 @@ index = pc.Index(index_name)
 stats = index.describe_index_stats()
 total_vectors = stats['total_vector_count']
 
-new_id = total_vectors 
+new_id = total_vectors + 1
 
 
 def update_faq(Question, Answer, id = new_id, bedrock=bedrock, modelId=modelId, index=index):
